@@ -1,4 +1,4 @@
-import css from "./Contact.module.css";
+import css from "../css/Contact.module.css";
 
 export default function Contact({ contact, onDelete }) {
 	return (
